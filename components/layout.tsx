@@ -6,7 +6,7 @@ import Link from 'next/link';
 import React from 'react';
 
 const name = 'Jess Wilson';
-export const siteTitle = 'Sample wesbite';
+export const siteTitle = 'Sample Wesbite';
 
 export default function Layout({ children, home }: {children: React.ReactNode, home?: boolean}) {
   return (
